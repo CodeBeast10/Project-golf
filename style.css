@@ -1,0 +1,21 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url("Grass.jpg");
+}
+#superCanvas
+{
+    border-width:11px;
+    border-style: groove;
+	background-color:rgb(44, 194, 44);
+}
+
+
+#hd3{
+	display: inline-block;
+	color: rgb(0, 238, 255);
+	background-color: rgb(255, 255, 255);
+	font-family:'Times New Roman', Times, serif;
+}
+
